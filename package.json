@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/icons-monorepo",
+  "name": "@xianniu-plus/icons-monorepo",
   "version": "2.3.1",
   "private": true,
   "packageManager": "pnpm@8.15.4",

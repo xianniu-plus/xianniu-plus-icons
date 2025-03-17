@@ -1,20 +1,20 @@
 {
-  "name": "@element-plus/icons-svg",
+  "name": "@xianniu-plus/icons-svg",
   "version": "2.3.1",
   "description": "SVG icon for Element Plus Icons collection.",
   "keywords": [
     "icon",
     "svg",
-    "element-plus"
+    "xianniu-plus"
   ],
   "license": "MIT",
-  "homepage": "https://element-plus.org/",
+  "homepage": "https://xianniu-plus.org/",
   "bugs": {
-    "url": "https://github.com/element-plus/element-plus-icons/issues"
+    "url": "https://github.com/xianniu-plus/xianniu-plus-icons/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus-icons.git",
+    "url": "git+https://github.com/xianniu-plus/xianniu-plus-icons.git",
     "directory": "packages/svg"
   },
   "files": [

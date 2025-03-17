@@ -1,6 +1,6 @@
 <script lang="ts" setup>
-import { icons } from '@element-plus/icons-vue/global'
-import { Upload } from '@element-plus/icons-vue'
+import { icons } from '@xianniu-plus/icons-vue/global'
+import { Upload } from '@xianniu-plus/icons-vue'
 </script>
 
 <template>

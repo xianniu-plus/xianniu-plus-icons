@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/icons-playground",
+  "name": "@xianniu-plus/icons-playground",
   "private": true,
   "type": "module",
   "license": "MIT",
@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@element-plus/icons-svg": "workspace:*",
-    "@element-plus/icons-vue": "workspace:*",
+    "@xianniu-plus/icons-svg": "workspace:*",
+    "@xianniu-plus/icons-vue": "workspace:*",
     "vue": "^3.4.21"
   },
   "devDependencies": {

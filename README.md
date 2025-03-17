@@ -3,25 +3,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/element-plus/element-plus-icons">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/element-plus/element-plus-icons?style=social">
+  <a href="https://github.com/xianniu-plus/xianniu-plus-icons">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xianniu-plus/xianniu-plus-icons?style=social">
   </a>
-  <a href="https://github.com/element-plus/element-plus-icons">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/element-plus/element-plus-icons?style=social">
+  <a href="https://github.com/xianniu-plus/xianniu-plus-icons">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/xianniu-plus/xianniu-plus-icons?style=social">
   </a>
   <br>
 </p>
 
 # Element Plus Icons
 
-[![Unit Test](https://github.com/element-plus/element-plus-icons/actions/workflows/unit-test.yml/badge.svg)](https://github.com/element-plus/element-plus-icons/actions/workflows/unit-test.yml)
+[![Unit Test](https://github.com/xianniu-plus/xianniu-plus-icons/actions/workflows/unit-test.yml/badge.svg)](https://github.com/xianniu-plus/xianniu-plus-icons/actions/workflows/unit-test.yml)
 
-- [`@element-plus/icons-svg`](https://www.npmjs.com/package/@element-plus/icons-svg) raw svg files
-- [`@element-plus/icons-vue`](https://www.npmjs.com/package/@element-plus/icons-vue) vue components
+- [`@xianniu-plus/icons-svg`](https://www.npmjs.com/package/@xianniu-plus/icons-svg) raw svg files
+- [`@xianniu-plus/icons-vue`](https://www.npmjs.com/package/@xianniu-plus/icons-vue) vue components
 
 ## Preview
 
-- [Documentation](https://element-plus.org/en-US/component/icon.html)
+- [Documentation](https://xianniu-plus.org/en-US/component/icon.html)
 - [Icônes](https://icones.js.org/collection/ep)
 - [Iconify](https://icon-sets.iconify.design/ep/)
 

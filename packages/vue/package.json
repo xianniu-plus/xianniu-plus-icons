@@ -1,5 +1,5 @@
 {
-  "name": "@element-plus/icons-vue",
+  "name": "@xianniu-plus/icons-vue",
   "version": "2.3.1",
   "description": "Vue components of Element Plus Icons collection.",
   "type": "module",
@@ -7,16 +7,16 @@
     "icon",
     "svg",
     "vue",
-    "element-plus"
+    "xianniu-plus"
   ],
   "license": "MIT",
-  "homepage": "https://element-plus.org/",
+  "homepage": "https://xianniu-plus.org/",
   "bugs": {
-    "url": "https://github.com/element-plus/element-plus-icons/issues"
+    "url": "https://github.com/xianniu-plus/xianniu-plus-icons/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/element-plus/element-plus-icons.git",
+    "url": "git+https://github.com/xianniu-plus/xianniu-plus-icons.git",
     "directory": "packages/vue"
   },
   "files": [
@@ -59,7 +59,7 @@
     "vue": "^3.2.0"
   },
   "devDependencies": {
-    "@element-plus/icons-svg": "workspace:*",
+    "@xianniu-plus/icons-svg": "workspace:*",
     "@pnpm/find-workspace-dir": "^6.0.3",
     "@pnpm/find-workspace-packages": "^6.0.9",
     "@pnpm/logger": "^5.0.0",
