@@ -20,6 +20,11 @@
   "files": [
     "*.svg"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public",
+    "scope": "@xianniu-plus"
+  },
   "scripts": {
     "optimize": "svgo -f . -o ."
   },
