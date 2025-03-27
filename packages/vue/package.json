@@ -1,7 +1,7 @@
 {
   "name": "@xianniu-plus/icons-vue",
   "version": "2.3.1",
-  "description": "Vue components of Element Plus Icons collection.",
+  "description": "Vue components of Xianniu Plus Icons collection.",
   "type": "module",
   "keywords": [
     "icon",

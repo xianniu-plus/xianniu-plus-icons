@@ -12,7 +12,7 @@
   <br>
 </p>
 
-# Element Plus Icons
+# Xianniu Plus Icons
 
 [![Unit Test](https://github.com/xianniu-plus/xianniu-plus-icons/actions/workflows/unit-test.yml/badge.svg)](https://github.com/xianniu-plus/xianniu-plus-icons/actions/workflows/unit-test.yml)
 
